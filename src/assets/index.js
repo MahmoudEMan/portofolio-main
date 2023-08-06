@@ -53,6 +53,7 @@ export {
   mongodb,
   nodejs,
   reactjs,
+  nextjs,
   mui,
   redux,
   tailwind,
