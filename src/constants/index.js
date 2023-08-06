@@ -64,6 +64,23 @@ const services = [
 ];
 
 const technologies = [
+  // {
+  //   name: "HTML 5",
+  //   icon: html,
+  // },
+  // {
+  //   name: "CSS 3",
+  //   icon: css,
+  // },
+  {
+    name: "JavaScript",
+    icon: javascript,
+  },
+
+  {
+    name: "React JS",
+    icon: reactjs,
+  },
   {
     name: "Next JS",
     icon: nextjs,
@@ -80,10 +97,10 @@ const technologies = [
     name: "Tailwind CSS",
     icon: tailwind,
   },
-  {
-    name: "Nivo",
-    icon: nivo,
-  },
+  // {
+  //   name: "Nivo",
+  //   icon: nivo,
+  // },
   {
     name: "Three JS",
     icon: threejs,
@@ -92,27 +109,10 @@ const technologies = [
     name: "git",
     icon: git,
   },
-  {
-    name: "github",
-    icon: githubIcon,
-  },
-  {
-    name: "HTML 5",
-    icon: html,
-  },
-  {
-    name: "CSS 3",
-    icon: css,
-  },
-  {
-    name: "JavaScript",
-    icon: javascript,
-  },
-
-  {
-    name: "React JS",
-    icon: reactjs,
-  },
+  // {
+  //   name: "github",
+  //   icon: githubIcon,
+  // },
 ];
 
 const experiences = [
