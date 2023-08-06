@@ -194,25 +194,26 @@ const projects = [
     source_code_link: "https://github.com/",
   },
   {
-    name: "Job IT",
+    name: "Dribbble Clone",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "Collaborative web app for developers to post projects, seek feedback, find collaborators, and share code. Simplify project management, foster a supportive community, and advance technology together.",
     tags: [
       {
         name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "nextjs",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "graphbase",
         color: "pink-text-gradient",
       },
     ],
     image: jobit,
     source_code_link: "https://github.com/",
+    live_server: "https://dribbble-clone-zeta.vercel.app/",
   },
   {
     name: "Trip Guide",
