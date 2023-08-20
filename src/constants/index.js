@@ -213,7 +213,7 @@ const projects = [
     ],
     image: jobit,
     source_code_link: "https://github.com/",
-    live_server: "https://dribbble-clone-zeta.vercel.app/",
+    live_server: "https://dribbble-clone-bay.vercel.app/",
   },
   {
     name: "Trip Guide",
